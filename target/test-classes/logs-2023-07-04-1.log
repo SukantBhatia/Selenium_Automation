@@ -1,0 +1,56 @@
+[INFO ] 2023-07-04 23:21:38,947 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:21:42,948 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:22:03,068 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-04 23:22:03,173 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-04 23:22:03,339 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-04 23:22:06,486 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-04 23:22:06,553 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phoneis visible
+[INFO ] 2023-07-04 23:22:07,306 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-04 23:22:07,549 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-04 23:22:08,233 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-04 23:22:08,439 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-04 23:22:08,759 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:22:10,940 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:22:14,318 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:22:34,381 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-04 23:22:34,477 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-04 23:22:34,667 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-04 23:22:37,698 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-04 23:22:37,743 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TVis visible
+[INFO ] 2023-07-04 23:22:38,439 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-04 23:22:38,662 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-04 23:22:39,215 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-04 23:22:39,448 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-04 23:22:39,755 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:31:18,445 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:31:21,649 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:31:41,722 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:31:41,888 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:31:41,888 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-04 23:31:45,885 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-04 23:31:48,808 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-04 23:31:48,809 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-04 23:31:48,809 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:31:48,899 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:31:49,824 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:31:49,860 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-04 23:31:50,236 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:31:52,494 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:31:55,074 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:32:15,167 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:32:15,268 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:32:15,268 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-04 23:32:18,736 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-04 23:32:21,157 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-04 23:32:21,157 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-04 23:32:21,158 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:32:21,236 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:32:22,026 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:32:22,062 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-04 23:32:22,558 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:33:48,596 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:33:52,594 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:33:52,825 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:33:52,930 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:33:52,930 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-04 23:33:54,271 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page

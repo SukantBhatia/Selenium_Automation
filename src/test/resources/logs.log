@@ -1,0 +1,921 @@
+[INFO ] 2023-07-04 23:33:57,143 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-04 23:33:57,151 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-04 23:33:57,151 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:33:57,244 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:33:58,228 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:33:58,655 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:34:00,734 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:34:03,911 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:34:23,985 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:34:24,111 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:34:24,112 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-04 23:34:44,785 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:39:37,488 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:39:37,488 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:39:37,488 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:39:37,488 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:39:46,565 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:39:47,728 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:39:48,170 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-04 23:39:48,366 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:39:48,505 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:39:48,717 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-04 23:39:51,581 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: New Delhi
+[INFO ] 2023-07-04 23:39:51,581 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: Mumbai
+[INFO ] 2023-07-04 23:39:52,347 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-04 23:39:53,940 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:New Delhi and to location: Mumbai
+[INFO ] 2023-07-04 23:39:54,474 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:39:58,126 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:40:03,686 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:40:07,939 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-04 23:40:08,154 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-04 23:40:08,426 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-04 23:40:08,496 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:40:08,682 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-04 23:40:08,804 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:40:08,805 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-04 23:40:08,899 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-04 23:40:09,809 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-04 23:40:15,185 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-04 23:40:15,350 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-04 23:40:16,570 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:40:17,219 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-04 23:40:17,329 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-04 23:40:18,806 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-04 23:40:19,339 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-04 23:40:19,998 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-04 23:40:20,235 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-04 23:40:20,754 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-04 23:40:21,374 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:40:23,761 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-04 23:40:25,124 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:40:27,094 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-04 23:40:27,094 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-04 23:40:27,095 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:40:27,567 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:40:28,859 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:40:29,092 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-04 23:40:30,539 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:40:34,135 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:40:36,288 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:40:36,852 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-04 23:40:37,035 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-04 23:40:37,349 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-04 23:40:38,040 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-04 23:40:39,313 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:40:39,869 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-04 23:40:40,703 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-04 23:40:41,214 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-04 23:40:42,534 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-04 23:40:42,597 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:40:43,026 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-04 23:40:43,388 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:40:59,359 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:40:59,462 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:40:59,462 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-04 23:41:03,533 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-04 23:41:05,888 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-04 23:41:05,889 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-04 23:41:05,889 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:41:05,965 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:41:07,024 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:41:07,799 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:47:37,525 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:47:41,120 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:48:01,275 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:48:01,393 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:48:01,393 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-04 23:48:05,354 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-04 23:48:08,190 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-04 23:48:08,190 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-04 23:48:08,191 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:48:08,317 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:48:09,612 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:48:10,477 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:48:12,804 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:48:16,761 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-04 23:48:16,994 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-04 23:48:17,118 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-04 23:48:17,118 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-04 23:48:18,230 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-04 23:48:20,563 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-04 23:48:20,563 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-04 23:48:20,563 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-04 23:48:20,651 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-04 23:48:21,623 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-04 23:48:22,373 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-04 23:52:06,865 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-04 23:52:10,298 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:01:18,109 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:01:18,206 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:01:18,206 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 00:01:19,825 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 00:01:22,296 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 00:01:22,297 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 00:01:22,297 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:01:22,384 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:01:23,415 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:01:23,454 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 00:01:24,115 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:01:30,682 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:01:33,469 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:01:59,362 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:01:59,458 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:01:59,459 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 00:02:02,718 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 00:02:05,169 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-05 00:02:05,169 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-05 00:02:05,170 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:02:05,248 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:02:06,046 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:02:06,085 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 00:02:06,668 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:09:30,667 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:09:33,622 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:11:04,193 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:11:07,333 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:11:48,508 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:11:52,003 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:18:07,038 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:18:07,167 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:18:07,167 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 00:18:08,708 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 00:18:11,425 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: realme 11 Pro+ 5G (Sunrise Beige, 256 GB)
+[INFO ] 2023-07-05 00:18:11,426 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: realme 11 Pro+ 5G (Sunrise Beige, 256 GB)  (12 GB RAM)
+[INFO ] 2023-07-05 00:18:11,426 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:18:11,498 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:18:33,095 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:18:35,871 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:18:38,943 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:18:59,045 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:18:59,164 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:18:59,164 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 00:19:05,181 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 00:19:08,258 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-05 00:19:08,259 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-05 00:19:08,259 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:19:08,465 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:19:09,815 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:19:11,502 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:20:01,546 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:01,569 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:01,547 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:01,560 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:09,626 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:10,235 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:10,571 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 00:20:10,729 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 00:20:13,984 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:14,766 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:14,839 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 00:20:15,412 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 00:20:15,735 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:20:16,030 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:20:16,030 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 00:20:16,153 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 00:20:16,500 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 00:20:18,679 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 00:20:18,957 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 00:20:20,464 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 00:20:20,958 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 00:20:22,108 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 00:20:22,519 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 00:20:23,021 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:20:24,021 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 00:20:24,021 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 00:20:24,021 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:20:24,687 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:20:26,622 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:20:26,741 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 00:20:27,386 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:20:27,907 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:20:28,283 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:29,796 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 00:20:30,050 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 00:20:30,569 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 00:20:32,419 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:32,786 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:20:36,102 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-05 00:20:36,314 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-05 00:20:37,600 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:20:40,766 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:40,930 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:41,006 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:20:41,445 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 00:20:41,601 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 00:20:42,086 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 00:20:42,336 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 00:20:43,752 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 00:20:44,715 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 00:20:45,241 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 00:20:46,062 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 00:20:46,576 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 00:20:46,991 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:21:00,858 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:21:00,955 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:21:00,955 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 00:21:01,046 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 00:21:04,082 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 00:21:06,070 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 00:21:06,785 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: Mumbai
+[INFO ] 2023-07-05 00:21:06,786 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: New Delhi
+[INFO ] 2023-07-05 00:21:07,325 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-05 00:21:08,441 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:Mumbai and to location: New Delhi
+[INFO ] 2023-07-05 00:21:08,969 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:21:09,666 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 00:21:09,666 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 00:21:09,667 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:21:09,748 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:21:10,617 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:21:10,646 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 00:21:11,158 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:25:57,963 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:25:57,967 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:25:57,966 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:25:57,971 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:26:06,383 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:07,115 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 00:26:07,183 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:07,443 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 00:26:07,884 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 00:26:08,507 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 00:26:09,729 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:10,390 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 00:26:10,853 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 00:26:11,045 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 00:26:11,196 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:11,931 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 00:26:12,043 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:26:12,296 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-05 00:26:12,376 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:26:12,377 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 00:26:13,589 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 00:26:14,015 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 00:26:14,620 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-05 00:26:15,508 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:15,783 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 00:26:16,037 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 00:26:16,378 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 00:26:17,028 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:21,018 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:26:22,279 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: realme 11 Pro+ 5G (Sunrise Beige, 256 GB)
+[INFO ] 2023-07-05 00:26:22,280 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: realme 11 Pro+ 5G (Sunrise Beige, 256 GB)  (12 GB RAM)
+[INFO ] 2023-07-05 00:26:22,280 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:26:22,365 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:26:26,048 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:26,362 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 00:26:26,485 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 00:26:26,707 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 00:26:26,788 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 00:26:27,243 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 00:26:28,191 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 00:26:29,368 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 00:26:29,623 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 00:26:30,440 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 00:26:30,870 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 00:26:30,905 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 00:26:31,441 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:33,400 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: New Delhi
+[INFO ] 2023-07-05 00:26:33,401 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: Mumbai
+[INFO ] 2023-07-05 00:26:33,928 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-05 00:26:35,072 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:New Delhi and to location: Mumbai
+[INFO ] 2023-07-05 00:26:35,378 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:38,180 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:26:42,554 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:26:43,280 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 00:26:43,405 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 00:26:44,618 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:46,354 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: Mumbai
+[INFO ] 2023-07-05 00:26:46,354 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: New Delhi
+[INFO ] 2023-07-05 00:26:47,212 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-05 00:26:47,692 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 00:26:48,513 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:Mumbai and to location: New Delhi
+[INFO ] 2023-07-05 00:26:48,929 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 00:26:51,338 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 00:27:11,430 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 00:27:11,521 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 00:27:11,521 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 00:27:15,257 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 00:27:17,789 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-05 00:27:17,789 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-05 00:27:17,789 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 00:27:17,865 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 00:27:18,798 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 00:27:19,645 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 09:52:19,339 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 09:52:23,562 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 09:52:23,889 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 09:52:24,026 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 09:52:24,256 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 09:52:24,387 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 09:52:25,733 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 09:52:26,729 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 09:52:27,030 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 09:52:27,838 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 09:52:28,179 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 09:52:28,619 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 09:52:31,062 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 09:52:34,321 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 09:52:54,406 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 09:52:54,551 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 09:52:54,760 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 09:52:59,979 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 09:53:00,038 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 09:53:00,856 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 09:53:01,081 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 09:53:01,954 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 09:53:02,252 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 09:53:02,612 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 10:47:33,651 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 10:47:37,473 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 10:47:37,802 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 10:47:57,125 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 10:48:54,528 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 10:48:58,259 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 10:49:18,384 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 10:49:29,605 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 10:52:00,472 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 10:52:03,582 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 10:52:23,662 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 10:52:28,650 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 10:54:31,565 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 10:54:35,815 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 10:54:35,992 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 10:58:31,413 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 10:58:44,747 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 10:58:45,045 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 10:59:21,035 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:01:42,720 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:01:46,601 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:02:06,781 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:03:37,303 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Top Wear
+[INFO ] 2023-07-05 11:04:04,323 com.flipkart.automation.tests.SearchProductByCategoryTest:25 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 11:04:09,393 com.flipkart.automation.tests.SearchProductByCategoryTest:28 - Category name on plp: Topwear
+[INFO ] 2023-07-05 11:04:14,307 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:06:42,626 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:06:50,194 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:06:50,571 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:07:01,242 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:07:24,307 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:07:31,649 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:07:31,987 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:07:42,792 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:10:26,156 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:10:36,617 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:10:36,943 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:10:46,677 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:11:33,014 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:11:42,725 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:11:43,070 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:11:54,017 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:18:30,364 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:18:37,233 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:18:37,786 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:18:48,955 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:19:40,406 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:19:47,792 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:20:07,954 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:20:08,165 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 11:21:14,041 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:23:48,327 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:23:52,929 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:24:13,037 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:24:13,244 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 11:24:34,083 com.flipkart.automation.tests.SearchProductByCategoryTest:24 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 11:24:36,012 com.flipkart.automation.tests.SearchProductByCategoryTest:27 - Category name on plp: Bottomwear
+[INFO ] 2023-07-05 11:24:49,537 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:28:38,634 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:28:46,425 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:28:46,726 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:29:02,410 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:29:20,211 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:29:28,233 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:29:28,694 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:29:39,538 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:31:25,971 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:31:35,260 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:31:35,812 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:31:55,651 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:42:15,735 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:42:20,238 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:42:20,423 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:42:41,312 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:43:07,291 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:43:11,324 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:43:11,518 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:43:32,183 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:44:08,087 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:44:10,839 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:44:31,014 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:44:40,261 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 11:44:45,692 com.flipkart.automation.tests.SearchProductByCategoryTest:24 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 11:44:45,746 com.flipkart.automation.tests.SearchProductByCategoryTest:27 - Category name on plp: Bottomwear
+[INFO ] 2023-07-05 11:52:19,676 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:52:23,954 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:52:44,097 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:52:44,289 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 11:52:47,895 com.flipkart.automation.tests.SearchProductByCategoryTest:24 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 11:52:47,925 com.flipkart.automation.tests.SearchProductByCategoryTest:27 - Category name on plp: Bottomwear
+[INFO ] 2023-07-05 11:52:48,300 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 11:53:54,715 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 11:53:58,802 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 11:54:18,995 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 11:54:19,224 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 11:54:24,327 com.flipkart.automation.tests.SearchProductByCategoryTest:24 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 11:54:24,358 com.flipkart.automation.tests.SearchProductByCategoryTest:27 - Category name on plp: Bottomwear
+[INFO ] 2023-07-05 11:54:24,361 com.flipkart.automation.tests.SearchProductByCategoryTest:30 - Validated successfully Men's Bottom Wear with Bottomwear
+[INFO ] 2023-07-05 11:54:24,804 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 16:57:02,207 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:02,208 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:02,208 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:02,212 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:22,762 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 16:57:23,359 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 16:57:24,238 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 16:57:24,239 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 16:57:24,406 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 16:57:27,155 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 16:57:28,839 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 16:57:32,647 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:34,406 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 16:57:35,454 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 16:57:35,914 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 16:57:36,663 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 16:57:36,877 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:06:22,189 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:06:23,483 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:06:24,256 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:06:24,537 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:06:38,779 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:06:39,120 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 17:06:39,671 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 17:06:41,820 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:06:42,272 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 17:06:42,774 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 17:06:43,518 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 17:06:43,913 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 17:06:45,871 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:06:45,879 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:06:51,018 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 17:06:51,148 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:06:53,637 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 17:06:54,076 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 17:06:55,276 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 17:06:55,730 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 17:06:56,259 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:07:01,279 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:07:03,653 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:07:05,905 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:07:06,648 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:07:07,392 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:07:18,187 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:07:18,401 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 17:07:18,553 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 17:07:18,844 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 17:07:18,982 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 17:07:24,245 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 17:07:26,065 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 17:07:26,412 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 17:07:28,315 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:07:28,427 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 17:07:28,779 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 17:07:29,276 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:09:51,772 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:10:05,147 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:10:05,342 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 17:10:05,495 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 17:10:05,762 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 17:10:05,905 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-05 17:10:12,159 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-05 17:10:12,582 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:11:10,858 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:11:20,727 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:11:40,821 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 17:11:41,023 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 17:11:41,023 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 17:12:02,271 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 17:12:05,337 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 17:12:18,827 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 17:12:19,097 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 17:12:19,249 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 17:12:19,249 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 17:12:21,626 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:28:51,417 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:29:03,453 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:29:23,623 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 19:29:23,809 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 19:29:23,809 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 19:29:35,930 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 19:29:41,659 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 19:29:41,661 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 19:29:41,661 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 19:29:41,838 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 19:29:45,641 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 19:29:46,696 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:29:49,910 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:29:53,026 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:29:58,153 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 19:46:08,204 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:46:08,206 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:46:08,226 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:46:08,242 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:46:08,245 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:46:22,298 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:46:22,418 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:46:24,470 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:46:25,664 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 19:46:26,179 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 19:46:27,381 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 19:46:28,472 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:46:28,528 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 19:46:29,750 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 19:46:30,381 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:46:30,947 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 19:46:30,947 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 19:46:32,640 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 19:46:35,346 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 19:46:35,985 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 19:46:36,850 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 19:46:38,431 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 19:46:38,962 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 19:46:40,238 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:46:42,393 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 19:46:42,608 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 19:46:43,297 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 19:46:45,413 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 19:47:30,339 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:47:30,340 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:47:30,345 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:47:30,417 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:47:30,430 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:47:44,823 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:47:45,667 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 19:47:46,812 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 19:47:46,812 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 19:47:47,735 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:47:48,506 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 19:47:49,446 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 19:47:50,080 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:47:50,360 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 19:47:51,319 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-05 19:47:52,254 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:47:54,269 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 19:47:55,816 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-05 19:47:56,157 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:47:56,986 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:48:00,757 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:48:02,474 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:48:04,118 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 19:48:04,119 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 19:48:04,119 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 19:48:04,417 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 19:48:06,266 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 19:48:09,042 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:48:15,342 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:48:16,219 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 19:48:16,507 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:48:17,259 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:48:18,113 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:48:21,816 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 19:48:22,315 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 19:48:22,488 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 19:48:22,488 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 19:48:24,286 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 19:48:27,375 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 19:48:27,376 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 19:48:27,376 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 19:48:27,498 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 19:48:28,560 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 19:48:28,628 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 19:48:29,207 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 19:48:30,190 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 19:48:30,422 com.flipkart.automation.tests.SearchProductByCategoryTest:21 - Category name on home page: Men's Bottom Wear
+[INFO ] 2023-07-05 19:48:35,101 com.flipkart.automation.tests.SearchProductByCategoryTest:24 - Clicked on the first category navigation card and land on plp
+[INFO ] 2023-07-05 19:48:35,154 com.flipkart.automation.tests.SearchProductByCategoryTest:27 - Category name on plp: Bottomwear
+[INFO ] 2023-07-05 19:48:35,154 com.flipkart.automation.tests.SearchProductByCategoryTest:30 - Validated successfully Men's Bottom Wear with Bottomwear
+[INFO ] 2023-07-05 19:48:35,618 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:27:12,939 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:27:12,940 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:27:20,985 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:27:21,667 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:27:22,208 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 20:27:22,502 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 20:27:23,037 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 20:27:23,369 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 20:27:24,674 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 20:27:26,007 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 20:27:26,363 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 20:27:27,184 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 20:27:27,532 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 20:27:27,980 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:27:31,280 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:27:35,861 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:27:36,380 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 20:27:36,521 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 20:27:36,993 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 20:27:37,190 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 20:27:38,614 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 20:27:39,505 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 20:27:39,843 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 20:27:40,690 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 20:27:40,992 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 20:27:41,464 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:28:01,221 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 20:28:01,384 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 20:28:01,385 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 20:28:07,144 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 20:28:10,462 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 20:28:10,462 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 20:28:10,463 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 20:28:10,577 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 20:28:11,716 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 20:28:11,760 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 20:28:12,368 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:28:15,332 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:28:19,744 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:28:20,176 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 20:28:20,334 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 20:28:20,334 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 20:28:22,331 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 20:28:25,343 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 20:28:25,343 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 20:28:25,343 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 20:28:25,457 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 20:28:26,445 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 20:28:26,532 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 20:28:27,080 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:33:54,301 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:33:54,302 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:33:54,302 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:33:55,354 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:33:55,484 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:34:08,433 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:09,537 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:09,787 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 20:34:10,376 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:10,734 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 20:34:10,873 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:12,020 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 20:34:13,315 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 20:34:13,971 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:14,914 com.flipkart.automation.tests.SearchProductByCategoryTest:18 - Closed the login popup
+[INFO ] 2023-07-05 20:34:16,752 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 20:34:19,561 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 20:34:20,162 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 20:34:21,739 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 20:34:22,368 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 20:34:22,956 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:34:30,453 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:34:38,661 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:34:38,801 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:34:49,601 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 20:34:49,831 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 20:34:49,831 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 20:34:50,590 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 20:34:51,033 com.flipkart.automation.tests.SearchProductTest:18 - Closed the login popup
+[INFO ] 2023-07-05 20:34:51,252 com.flipkart.automation.tests.SearchProductTest:21 - Clicked on the search field
+[INFO ] 2023-07-05 20:34:52,176 com.flipkart.automation.tests.SearchProductTest:25 - Entered product name: AC
+[INFO ] 2023-07-05 20:34:58,089 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 20:35:03,035 com.flipkart.automation.tests.SearchProductTest:28 - Landed on the product list page
+[INFO ] 2023-07-05 20:35:03,315 com.flipkart.automation.tests.SearchProductTest:32 - Validated the product: ACis visible
+[INFO ] 2023-07-05 20:35:03,646 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 20:35:04,490 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:35:09,394 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 20:35:09,394 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 20:35:09,395 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 20:35:09,740 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 20:35:11,125 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 20:35:11,204 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 20:35:12,084 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:35:16,143 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:35:18,882 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 20:35:19,035 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 20:35:19,640 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 20:35:21,952 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:35:24,716 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:35:26,506 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 20:35:26,776 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 20:35:29,230 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 20:35:29,332 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 20:35:29,919 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 20:35:30,805 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 20:35:31,417 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 20:35:32,359 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 20:35:34,453 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 20:36:02,064 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 20:36:02,190 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 20:36:02,191 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 20:36:08,075 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 20:36:14,569 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 20:36:17,833 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 20:36:20,216 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: Mumbai
+[INFO ] 2023-07-05 20:36:20,216 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: New Delhi
+[INFO ] 2023-07-05 20:36:20,671 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-05 20:36:21,884 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:Mumbai and to location: New Delhi
+[INFO ] 2023-07-05 20:36:22,295 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:16:20,721 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:16:24,518 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:17:04,692 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:17:08,044 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:17:10,388 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: New Delhi
+[INFO ] 2023-07-05 21:17:10,388 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: Mumbai
+[INFO ] 2023-07-05 21:17:30,959 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:17:34,532 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:17:39,573 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:17:39,858 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:17:39,980 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:17:41,985 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: Mumbai
+[INFO ] 2023-07-05 21:17:41,985 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: New Delhi
+[INFO ] 2023-07-05 21:18:02,637 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:18:49,679 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:18:54,326 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:18:54,621 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:18:54,754 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:32:19,514 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:32:23,091 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:33:03,239 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:33:06,273 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:34:18,718 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:34:22,556 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:34:26,352 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:35:06,453 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:35:09,122 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:37:40,757 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:39:49,665 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:39:53,981 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:39:54,198 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:39:54,344 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:39:55,909 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: New Delhi
+[INFO ] 2023-07-05 21:39:55,909 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: Mumbai
+[INFO ] 2023-07-05 21:40:16,408 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:40:19,094 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:40:23,751 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:41:03,836 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:41:06,714 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:41:08,842 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: Mumbai
+[INFO ] 2023-07-05 21:41:08,842 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: New Delhi
+[INFO ] 2023-07-05 21:41:29,483 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:44:11,963 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:44:15,562 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:44:55,680 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:44:58,547 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:45:01,266 com.flipkart.automation.tests.SearchFlightTest:30 - Entered from location: New Delhi
+[INFO ] 2023-07-05 21:45:01,270 com.flipkart.automation.tests.SearchFlightTest:31 - Entered to location: Mumbai
+[INFO ] 2023-07-05 21:45:01,739 com.flipkart.automation.tests.SearchFlightTest:34 - Clicked on search flight button
+[INFO ] 2023-07-05 21:45:03,211 com.flipkart.automation.tests.SearchFlightTest:37 - Succesfully Validated the searched flight details for from location:New Delhi and to location: Mumbai
+[INFO ] 2023-07-05 21:45:03,702 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:45:06,914 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:45:11,657 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:45:11,992 com.flipkart.automation.tests.SearchFlightTest:24 - Clicked on the close button
+[INFO ] 2023-07-05 21:45:12,167 com.flipkart.automation.tests.SearchFlightTest:27 - Landed on the book flight page
+[INFO ] 2023-07-05 21:45:34,999 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:46:33,280 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:46:36,983 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:47:17,084 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 21:47:17,240 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 21:47:17,240 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 21:47:22,840 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 21:47:26,217 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 21:47:26,218 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 21:47:26,218 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 21:47:26,381 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 21:47:27,607 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 21:47:27,651 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 21:47:28,400 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 21:47:31,876 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 21:47:36,730 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 21:47:37,207 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 21:47:37,395 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 21:47:37,396 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 21:47:39,185 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 21:47:42,358 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 21:47:42,359 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dolby Audio (2022 Model)
+[INFO ] 2023-07-05 21:47:42,359 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 21:47:42,468 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 21:47:43,650 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 21:47:43,713 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 21:47:44,191 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 22:23:41,011 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:23:46,546 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:23:46,835 com.flipkart.automation.tests.LoginPageErrorValidation:18 - Closed the login popup
+[INFO ] 2023-07-05 22:24:27,667 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 22:25:32,651 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:25:36,200 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:26:16,449 com.flipkart.automation.tests.LoginPageErrorValidation:18 - Closed the login popup
+[INFO ] 2023-07-05 22:28:47,670 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:28:52,870 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:28:53,229 com.flipkart.automation.tests.LoginPageErrorValidation:18 - Closed the login popup
+[INFO ] 2023-07-05 22:29:34,029 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 22:36:46,576 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:36:50,401 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:37:06,165 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:37:15,056 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:39:31,784 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:39:35,441 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:39:52,188 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:39:57,880 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:40:17,502 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:40:21,621 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:40:45,284 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:40:50,066 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:40:59,790 com.flipkart.automation.tests.BaseTest:73 - Successfully closed the browser
+[INFO ] 2023-07-05 22:41:02,985 com.flipkart.automation.tests.BaseTest:47 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:41:07,903 com.flipkart.automation.tests.BaseTest:63 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:47:37,769 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:47:38,892 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:47:44,979 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:47:44,979 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:47:52,589 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:47:53,108 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 22:47:53,707 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 22:47:54,873 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:47:54,949 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 22:47:55,212 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 22:47:55,335 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 22:47:55,676 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 22:47:55,677 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 22:47:57,309 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 22:47:58,529 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 22:47:59,197 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 22:47:59,690 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 22:48:01,297 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 22:48:01,754 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 22:48:02,035 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:48:02,036 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:48:02,037 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:48:05,482 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: POCO C50 (Royal Blue, 32 GB)
+[INFO ] 2023-07-05 22:48:05,482 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: POCO C50 (Royal Blue, 32 GB)  (2 GB RAM)
+[INFO ] 2023-07-05 22:48:05,483 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 22:48:06,092 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:48:06,238 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 22:48:07,529 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 22:48:07,582 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 22:48:07,697 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:48:07,697 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:48:07,701 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:48:13,482 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:48:14,299 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:48:14,552 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 22:48:14,731 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 22:48:16,443 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 22:48:17,136 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 22:48:19,450 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 22:48:20,793 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 22:48:21,164 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:48:21,347 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 22:48:21,467 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 22:48:21,797 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 22:48:21,798 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Smart TV
+[INFO ] 2023-07-05 22:48:22,633 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 22:48:23,106 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 22:48:23,368 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:48:23,368 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:48:24,694 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Smart TV is visible on the product list page
+[INFO ] 2023-07-05 22:48:27,638 com.flipkart.automation.tests.AddProductToCartTest:46 - Product title on search results page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision
+[INFO ] 2023-07-05 22:48:27,638 com.flipkart.automation.tests.AddProductToCartTest:47 - Product title on product details page: KODAK 164 cm (65 inch) Ultra HD (4K) LED Smart Google TV with With Dolby Atmos and Dolby Vision  (65CAPRO5099)
+[INFO ] 2023-07-05 22:48:27,639 com.flipkart.automation.tests.AddProductToCartTest:51 - Successfully compared the product titles on search results and product details pages
+[INFO ] 2023-07-05 22:48:27,745 com.flipkart.automation.tests.AddProductToCartTest:54 - Added product to cart
+[INFO ] 2023-07-05 22:48:30,307 com.flipkart.automation.tests.AddProductToCartTest:60 - Successfully compared the product titles on product details and cart pages
+[INFO ] 2023-07-05 22:48:30,366 com.flipkart.automation.tests.AddProductToCartTest:63 - Validated the product count in the cart
+[INFO ] 2023-07-05 22:48:30,427 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:48:30,427 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:48:31,724 com.flipkart.automation.tests.BaseTest:85 - Successfully quits the browser
+[INFO ] 2023-07-05 22:49:01,190 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:49:01,871 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:49:08,288 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:49:08,292 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:49:14,163 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:49:14,935 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:49:15,352 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 22:49:15,661 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 22:49:16,206 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Mobile Phone
+[INFO ] 2023-07-05 22:49:16,449 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 22:49:18,092 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Mobile Phone is visible
+[INFO ] 2023-07-05 22:49:19,175 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 22:49:19,717 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 22:49:21,099 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 22:49:21,589 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 22:49:21,812 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:49:21,812 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:49:21,814 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:49:25,271 com.flipkart.automation.tests.BaseTest:48 - Executing test on the brower : Chrome
+[INFO ] 2023-07-05 22:49:30,948 com.flipkart.automation.tests.BaseTest:65 - Successfully navigated to the Home Page
+[INFO ] 2023-07-05 22:49:31,144 com.flipkart.automation.tests.SortProductTest:23 - Closed the login popup
+[INFO ] 2023-07-05 22:49:31,321 com.flipkart.automation.tests.SortProductTest:26 - Clicked on the search field
+[INFO ] 2023-07-05 22:49:32,042 com.flipkart.automation.tests.SortProductTest:29 - Entered product name: Smart TV
+[INFO ] 2023-07-05 22:49:32,410 com.flipkart.automation.tests.SortProductTest:32 - Landed on the product list page
+[INFO ] 2023-07-05 22:49:34,034 com.flipkart.automation.tests.SortProductTest:35 - Validated the product: Smart TV is visible
+[INFO ] 2023-07-05 22:49:35,199 com.flipkart.automation.tests.SortProductTest:38 - Sorted products by price in ascending order
+[INFO ] 2023-07-05 22:49:35,566 com.flipkart.automation.tests.SortProductTest:43 - Validated product price sorting in ascending order
+[INFO ] 2023-07-05 22:49:36,461 com.flipkart.automation.tests.SortProductTest:46 - Sorted products by price in descending order
+[INFO ] 2023-07-05 22:49:36,823 com.flipkart.automation.tests.SortProductTest:51 - Validated product price sorting in descending order
+[INFO ] 2023-07-05 22:49:37,021 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:49:37,021 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:49:54,320 com.flipkart.automation.tests.AddProductToCartTest:28 - Successfully closed the login popup
+[INFO ] 2023-07-05 22:49:54,451 com.flipkart.automation.tests.AddProductToCartTest:31 - Successfully clicked on the search button
+[INFO ] 2023-07-05 22:49:54,452 com.flipkart.automation.tests.AddProductToCartTest:34 - Searching for product: Mobile Phone
+[INFO ] 2023-07-05 22:49:59,367 com.flipkart.automation.tests.AddProductToCartTest:40 - Verified the product: Mobile Phone is visible on the product list page
+[INFO ] 2023-07-05 22:50:03,769 com.flipkart.automation.tests.BaseTest:75 - Successfully closed the browser
+[INFO ] 2023-07-05 22:50:03,770 com.flipkart.automation.tests.BaseTest:76 - Test case completed
+[INFO ] 2023-07-05 22:50:03,772 com.flipkart.automation.tests.BaseTest:61 - Test case started
+[INFO ] 2023-07-05 22:50:05,191 com.flipkart.automation.tests.BaseTest:85 - Successfully quits the browser

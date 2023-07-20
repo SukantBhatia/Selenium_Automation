@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="classes" name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="classes" name="Test1(failed)">
+    <classes>
+      <class name="com.flipkart.automation.tests.SearchProductTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="quitBrowser"/>
+          <include name="setup"/>
+          <include name="searchProductTest"/>
+        </methods>
+      </class> <!-- com.flipkart.automation.tests.SearchProductTest -->
+      <class name="com.flipkart.automation.tests.AddProductToCartTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="addProductToCart"/>
+          <include name="quitBrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.flipkart.automation.tests.AddProductToCartTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
