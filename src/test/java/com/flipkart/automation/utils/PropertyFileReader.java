@@ -9,7 +9,7 @@ import java.util.Properties;
 public class PropertyFileReader {
 
 	/**
-	 * Get the exxtent report configurations
+	 * Get the extent report configurations
 	 * @param propertyName: the name of the property to be fetched
 	 * @return value of the property
 	 */
@@ -23,6 +23,9 @@ public class PropertyFileReader {
 			fis = new FileInputStream(file);
 			prop = new Properties();
 			prop.load(fis);
+	
+			// Get the value of the specified property name
+			return prop.getProperty(propertyName);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -37,8 +40,6 @@ public class PropertyFileReader {
 				}
 			}
 		}
-
-		// Get the value of the specified property name
-		return prop.getProperty(propertyName);
+		return null;
 	}
 }

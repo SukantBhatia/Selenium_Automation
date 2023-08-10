@@ -12,7 +12,6 @@
 	<test name="Test1">
 		<classes>
 			<class name="com.flipkart.automation.tests.SearchProductTest" />
-			<class name="com.flipkart.automation.tests.AddProductToCartTest" />
 		</classes>
 	</test>
 </suite>

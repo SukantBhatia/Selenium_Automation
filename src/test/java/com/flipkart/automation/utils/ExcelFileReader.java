@@ -53,6 +53,12 @@ public class ExcelFileReader {
 			if (fis != null) {
 				try {
 					fis.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+			if (wb != null) {
+				try {
 					wb.close();
 				} catch (IOException e) {
 					e.printStackTrace();

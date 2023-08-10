@@ -3,13 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.flipkart.automation.tests.LoginPageErrorValidation">
+      <class name="com.flipkart.automation.tests.SortProductTest">
         <methods>
-          <include name="loginPageErrorValidation"/>
           <include name="closeBrowser"/>
+          <include name="sortProductTest" invocation-numbers="1"/>
+          <include name="quitBrowser"/>
+          <include name="closeBrowsers"/>
           <include name="launchApplication"/>
         </methods>
-      </class> <!-- com.flipkart.automation.tests.LoginPageErrorValidation -->
+      </class> <!-- com.flipkart.automation.tests.SortProductTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

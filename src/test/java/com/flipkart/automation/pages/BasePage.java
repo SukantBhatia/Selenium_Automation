@@ -91,7 +91,7 @@ public class BasePage {
 			switchToWindow(windowHandle);
 		}
 	}
-
+	
 	/**
 	 * Compares if the expected string contains the actual string.
 	 * @param actual: The actual string

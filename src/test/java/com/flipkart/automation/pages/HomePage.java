@@ -9,8 +9,6 @@ import com.flipkart.automation.utils.PropertyFileReader;
 
 public class HomePage extends BasePage {
 
-	private WebDriver driver;
-
 	@FindBy(xpath = "//button[contains(text(),'✕')]")
 	private WebElement crossButton;
 

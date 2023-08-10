@@ -9,6 +9,7 @@ com/flipkart/automation/utils/JsonFileReader$1.class
 com/flipkart/automation/tests/AddProductToCartTest.class
 com/flipkart/automation/pages/HomePage.class
 com/flipkart/automation/utils/ReportUtility.class
+com/flipkart/automation/pages/SearchFlightPage.class
 com/flipkart/automation/utils/ExtentReporterConfig.class
 com/flipkart/automation/tests/SearchProductTest.class
 com/flipkart/automation/utils/StringFunctions.class

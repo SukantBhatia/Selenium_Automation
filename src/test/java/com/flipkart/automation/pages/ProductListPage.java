@@ -75,11 +75,11 @@ public class ProductListPage extends BasePage {
 	 * @param input: to identify the type of sorting
 	 */
 	public void sortProductsPrice(String sortType) {
-		if (sortType == "Ascending") {
+		if (sortType.equals("Ascending")) {
 			waitTillClickable(sortPriceLowToHighElement);
 			sortPriceLowToHighElement.click();	
 			waitTillVisible(sortPriceLowToHighSelectedElement);
-		} else if (sortType == "Descending") {
+		} else if (sortType.equals("Descending")) {
 			waitTillClickable(sortPriceHighToLowElement);
 			sortPriceHighToLowElement.click();	
 			waitTillVisible(sortPriceHighToLowSelectedElement);
@@ -104,7 +104,7 @@ public class ProductListPage extends BasePage {
 	 */
 	public void validateProductPriceSorting(String sortType, List<String> orignalPriceStrings) {
 		List<String> sortedPriceStrings = orignalPriceStrings.stream()
-				.sorted(sortType == "Descending" ? Comparator.reverseOrder() : Comparator.naturalOrder())
+				.sorted(sortType.equals("Descending") ? Comparator.reverseOrder() : Comparator.naturalOrder())
 				.collect(Collectors.toList());
 		Assert.assertTrue(orignalPriceStrings.equals(sortedPriceStrings));
 	}
